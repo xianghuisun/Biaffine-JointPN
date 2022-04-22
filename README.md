@@ -20,7 +20,11 @@ mkdir knowledge_graph
 ### 下载知识图谱和问答数据
 [问答数据地址](https://github.com/CLUEbenchmark/KgCLUE/tree/main/datasets)
 [知识图谱地址](https://github.com/CLUEbenchmark/KgCLUE#%E6%95%B0%E6%8D%AE%E9%9B%86%E4%BB%8B%E7%BB%8D)
-将下载的文件存放在knowledge_graph文件夹下，确保knowledge_graph文件夹含有如下
+将下载的文件存放在knowledge_graph文件夹下，确保knowledge_graph文件夹含有如下文件
+- Knowledge.txt
+- train.json
+- dev.json
+- test_public.json
 
 
 
