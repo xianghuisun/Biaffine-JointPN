@@ -2,11 +2,6 @@
 
 Knowledge Graph Question Answering Based on Bi-affine Transformation and Pointer Network Joint Modeling
 
-- backup_code是平时备份代码的文件夹，用不到
-- notebook是一些jupyter写的文件，用于调试，用不到
-- biaffine_ner 这个文件夹的内容是利用双仿射变换(Biaffine)作为输出层进行实体识别
-- joint_with_mrc 这个文件夹的内容是联合实体消歧与关系匹配
-
 ## 下载知识图谱和预训练语言模型
 ```bash
 mkdir chinese-roberta-wwm-ext
