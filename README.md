@@ -1,6 +1,6 @@
 # Biaffine-JointPN
 
-Knowledge Graph Question Answering Based on Bi-affine Transformation and Pointer Network Joint ModelingJoint Modeling
+Knowledge Graph Question Answering Based on Bi-affine Transformation and Pointer Network Joint Modeling
 
 - backup_code是平时备份代码的文件夹，用不到
 - notebook是一些jupyter写的文件，用于调试，用不到
