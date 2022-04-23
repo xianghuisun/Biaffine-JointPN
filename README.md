@@ -2,6 +2,11 @@
 
 Knowledge Graph Question Answering Based on Bi-affine Transformation and Pointer Network Joint Modeling
 
+
+```bash
+pip install -r requirements.txt
+```
+
 ## 下载知识图谱和预训练语言模型
 ```bash
 mkdir chinese-roberta-wwm-ext
